@@ -49,12 +49,12 @@ Records with the same type of dishes can occur repeatedly.
 
 Organize the transfer of dishes from process to process:
 
-a) through a file, using semaphores for synchronization;
+#### a) through a file, using semaphores for synchronization;
 
-b) via pipe;
+#### b) via pipe;
 
-b) through messages;
+#### c) through messages;
 
-d) via shared memory;
+#### d) via shared memory;
 
-e) via sockets.
+#### e) via sockets.
